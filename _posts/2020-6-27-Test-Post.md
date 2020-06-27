@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test post
+title: Test Post
 ---
 
 Just testing to see if this works.
