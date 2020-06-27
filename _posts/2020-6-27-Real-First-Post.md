@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Real Post
+date: 2020-6-27 09:08
 ---
 
 Hi welcome to my blog. This is my blog about my programming "journey". I am a professional .Net developer in Columbia, SC.
